@@ -2,3 +2,4 @@ Test Git quick start demo
 Change1 committed
 Change2 unstangged
 Next Change2
+FEATURE2
